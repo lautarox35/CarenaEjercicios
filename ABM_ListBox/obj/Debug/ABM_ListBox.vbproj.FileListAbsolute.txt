@@ -1,0 +1,12 @@
+C:\Users\lauta\source\repos\ABM_ListBox\ABM_ListBox\bin\Debug\ABM_ListBox.exe.config
+C:\Users\lauta\source\repos\ABM_ListBox\ABM_ListBox\bin\Debug\ABM_ListBox.exe
+C:\Users\lauta\source\repos\ABM_ListBox\ABM_ListBox\bin\Debug\ABM_ListBox.pdb
+C:\Users\lauta\source\repos\ABM_ListBox\ABM_ListBox\bin\Debug\ABM_ListBox.xml
+C:\Users\lauta\source\repos\ABM_ListBox\ABM_ListBox\obj\Debug\ABM_ListBox.vbprojAssemblyReference.cache
+C:\Users\lauta\source\repos\ABM_ListBox\ABM_ListBox\obj\Debug\ABM_ListBox.Form1.resources
+C:\Users\lauta\source\repos\ABM_ListBox\ABM_ListBox\obj\Debug\ABM_ListBox.Resources.resources
+C:\Users\lauta\source\repos\ABM_ListBox\ABM_ListBox\obj\Debug\ABM_ListBox.vbproj.GenerateResource.cache
+C:\Users\lauta\source\repos\ABM_ListBox\ABM_ListBox\obj\Debug\ABM_ListBox.vbproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\ABM_ListBox\ABM_ListBox\obj\Debug\ABM_ListBox.exe
+C:\Users\lauta\source\repos\ABM_ListBox\ABM_ListBox\obj\Debug\ABM_ListBox.xml
+C:\Users\lauta\source\repos\ABM_ListBox\ABM_ListBox\obj\Debug\ABM_ListBox.pdb
